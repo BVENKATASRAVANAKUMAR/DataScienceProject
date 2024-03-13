@@ -8,7 +8,9 @@ The Purpose of this project was to create a recommendation system using the Spot
 
 Code:
 
-![image](https://github.com/BVENKATASRAVANAKUMAR/DataScienceProject/assets/131847253/fe448127-7b81-4dc5-8e40-5b30c8635285)
+
+![image](https://github.com/BVENKATASRAVANAKUMAR/DataScienceProject/assets/131847253/666ffde4-bfc5-419f-8a57-a466e3752295)
+
 The program is written in Python. Various libraries are used to analyze and operate the datasets, such as NumPy, Pandas, Matplot, and Sklearn.
 
 ![image](https://github.com/BVENKATASRAVANAKUMAR/DataScienceProject/assets/131847253/78d967a2-6e5f-4e0d-b1b7-ad29c2d43145)
